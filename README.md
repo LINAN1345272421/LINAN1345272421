@@ -1,5 +1,5 @@
 ## 风吹过半夏 👋
-<div align="center"> <img src="https://metrics.lecoq.io/LINAN1345272421?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div> <img src="https://metrics.lecoq.io/LINAN1345272421?template=classic&config.timezone=Asia%2FShanghai"> </div>
 ****
 目前大四，专注考研  
 博客园地址：https://www.cnblogs.com/fengchuiguobanxia/  
