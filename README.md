@@ -1,7 +1,11 @@
 ### 风吹过半夏 👋
 ****
 目前大四，专注考研  
-博客园地址：https://www.cnblogs.com/fengchuiguobanxia/
+博客园地址：https://www.cnblogs.com/fengchuiguobanxia/  
+##专业课程
+软件工程概论，统一建模语言，软件需求与分析，软件构造，软件体系结构，软件过程与管理
+算法与数据结构，数据库原理，操作系统，计算机网络，设计模式，计算机组成原理
+
 <!--
 **LINAN1345272421/LINAN1345272421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
