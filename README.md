@@ -15,6 +15,7 @@
 ### 掌握技术
 * 对于C,C++,java，python语言较为熟悉，熟悉mysql等数据库语言
 * 能够运用HTML，PHP，CSS，javascript等前端语言
+* 能够编写基于Android的app
 * 能够运用现有流行框架layui，flask等搭建简单网页
 * 熟悉Linux系统操作
 * 能够运用hadoop框架进行简单的大数据分析
