@@ -19,6 +19,8 @@
 * 熟悉Linux系统操作
 * 能够运用hadoop框架进行简单的大数据分析
 * 熟练掌握计算机基础理论知识
+### 编程经历
+具体查看本人上传的项目，这里不在赘述。
 <!--
 **LINAN1345272421/LINAN1345272421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
