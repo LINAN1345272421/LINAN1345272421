@@ -1,6 +1,5 @@
 ## 风吹过半夏 👋
-****
-目前大四，专注考研  
+****  
 博客园地址：https://www.cnblogs.com/fengchuiguobanxia/  
 累计发表四百多篇，阅读量三万  
 ****
